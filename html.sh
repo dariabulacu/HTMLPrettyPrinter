@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Ana are mere"
+am schimbat si eu ceva oare
+oare pot?
