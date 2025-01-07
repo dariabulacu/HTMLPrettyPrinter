@@ -100,7 +100,6 @@ while IFS= read -r line; do
     fi
     echo "$line" >> tmp_file
 done < new_tags
-cat tmp_file
 cat tmp_file > new_tags
 rm tmp_file
 
